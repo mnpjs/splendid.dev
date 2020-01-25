@@ -1,4 +1,4 @@
-## {{ create_date }}
+## 25 January 2020
 
 ### 0.0.0
 

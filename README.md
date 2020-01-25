@@ -1,12 +1,12 @@
-# my-new-package
+# @splendid.devjs/splendid.dev
 
-{{ description }}
+t
 
-A new website made with [Splendid][1]: {{ URL }}.
+A new website made with [Splendid][1]: https://splendid.dev.
 
 ## Copyright
 
-(c) [{{ trademark }}][2] {{ year }}
+(c) [MNP][2] 2020
 
 [1]: https://www.npmjs.com/package/splendid
-[2]: {{ website }}
+[2]: https://splendid.devjs.org

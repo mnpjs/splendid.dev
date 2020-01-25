@@ -2,7 +2,7 @@
  * @type {import('splendid').Page}
  */
 export const index = {
-  title: 'MyNewPackage',
+  title: 'Splendid.dev',
   seo: 'The 150-160 characters search engine meta:description',
   og: {
     image: '/img/logo.jpg',
@@ -15,10 +15,3 @@ export const index = {
 // additional directories
 // export const dir = '~/dir'
 
-// start help
-/**
- * A subdirectory with more pages should be exported as a
- * string constant.
- */
-export const help = '~/help'
-// end help
